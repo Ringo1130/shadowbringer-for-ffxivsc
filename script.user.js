@@ -140,7 +140,7 @@
                     div.className = "btn";
 				}
             });
-		}, 150);
+		}, 250);
     };
 
     shadowBringer();
