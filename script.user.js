@@ -3,7 +3,7 @@
 // @version      2024-03-08
 // @description  为光之收藏家添加暗色模式
 // @author       琳珸@拉诺西亚
-// @license		 WTFPL
+// @license	 WTFPL
 // @match        https://www.ffxivsc.cn/*
 // @icon         https://www.ffxivsc.cn/images/icon_sc_logo.png
 // @require      https://scriptcat.org/lib/513/2.0.0/ElementGetter.js
